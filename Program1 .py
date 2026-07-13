@@ -16,3 +16,10 @@ elif ch == 2:
 else:
     print("Invalid choice")
   
+output:
+enter your choice either 1 or 2:1
+enter a temperature in fahrenheit:100
+temperature:100 fahrenheit=37.77778c
+enter your choice either 1 or 2:2
+enter a temperature in celsius:35
+temperature:35celsius=95.0F
