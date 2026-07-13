@@ -23,3 +23,14 @@ elif avg >= 40:
     print("Grade D")
 else:
     print("Grade E")
+
+output:
+Enter the number of subject marks:5
+Enter the 1 mark:10
+Enter the 2 mark:90
+Enter the 3 mark:80
+Enter the 4 mark:70
+Enter the 5 mark:80
+Total marks=330
+Average of marks=66.0
+Grade C
